@@ -1,0 +1,19 @@
+.form{
+  display: flex;
+  flex-direction: column;
+width: 400px;
+} 
+.container{
+  margin: 2rem;
+
+}
+ input{
+  padding: 0.8rem;
+}
+
+button{
+  cursor: pointer;
+}
+p{
+  cursor: pointer;
+}
